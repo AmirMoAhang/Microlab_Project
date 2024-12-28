@@ -1,0 +1,9 @@
+VERSION:3 SOURCE_TIMESTAMP:595B75D3
+NODE:I LEVEL:0 LINE:1 "C:\cvavr\inc\io.h"
+NODE:I LEVEL:0 LINE:2 "C:\cvavr\inc\delay.h"
+NODE:M LEVEL:0 LINE:3 "xtal"
+NODE:C LEVEL:0 LINE:5 "digits -> FLASH"
+NODE:V LEVEL:0 LINE:7 "p_state -> R5"
+NODE:V LEVEL:0 LINE:8 "key -> R4"
+NODE:V LEVEL:0 LINE:9 "i -> R7"
+NODE:F LEVEL:0 LINE:11 "main(void)"

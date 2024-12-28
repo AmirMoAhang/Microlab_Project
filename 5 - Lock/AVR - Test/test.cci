@@ -1,0 +1,5 @@
+VERSION:3 SOURCE_TIMESTAMP:5995B9CF
+NODE:I LEVEL:0 LINE:1 "C:\cvavr\inc\io.h"
+NODE:I LEVEL:0 LINE:2 "C:\cvavr\inc\eeprom.h"
+NODE:F LEVEL:0 LINE:7 "main(void)"
+NODE:F LEVEL:0 LINE:27 "check(void)"
